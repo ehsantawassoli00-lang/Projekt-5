@@ -6,3 +6,4 @@ def plus(a, b):
 x = int(input("Första värde!"))
 Y = int(input("Andra värde!"))
 print(plus(x, Y))
+print("Idag är sista dag av kursen")
